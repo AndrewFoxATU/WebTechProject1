@@ -1,0 +1,38 @@
+h1{
+font-family: 'Courier New', Courier, monospace;
+color:coral;
+text-align:center;
+padding: 20px;
+}
+
+h2{
+font-family: 'Courier New', Courier, monospace;
+color:aquamarine;
+text-align:center;
+padding: 100px;
+}
+
+h3{
+font-family: 'Courier New', Courier, monospace;
+color:greenyellow;;
+text-align:center;
+padding: 100px;
+}
+
+.puma{
+    max-width: 15%;
+    
+    border: 5px solid red;
+    border-radius: 4px;
+    width: 50px;
+}
+
+
+.Rudolf{
+    max-width: 35%;
+    height:auto;  
+    border: 5px solid blue;
+    border-radius: 4px;
+    width: 500px;
+}
+
