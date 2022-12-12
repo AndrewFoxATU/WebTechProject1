@@ -33,3 +33,34 @@ ul {
     color: white;
     font-size: 30px;
   }
+
+  .item-box {
+    width: 200px;
+    height: 300px;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    width: 30%;
+    padding: 20px;
+    background-color: white;
+  }
+  
+  .item-name {
+    font-weight: bold;
+  }
+  
+  .item-price {
+    color: red;
+  }
+
+
+  .box-container {
+    display: inline-block;
+    align-items: center;
+    display: flex;
+    background-color: #1abc9c;
+  }
+
+  footer{
+
+}
